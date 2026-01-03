@@ -35,8 +35,8 @@ This project uses **OpenRouter** to access LLMs.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/End-to-End-Q-A-chatbot.git
-cd End-to-End-Q-A-chatbot
+git clone https://github.com/sanjip1203/Q-A-chatbot.git
+cd Q-A-chatbot
 ```
 
 ### 2️⃣ Create a virtual environment (recommended)
